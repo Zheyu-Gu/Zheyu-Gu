@@ -1,4 +1,4 @@
-- My name is Zheyu Gu. I am a second-year MS in Financial Engineering student at New York University, and I will be graduating in May 2021.
+- My name is Zheyu Gu. I just graduated from MS in Financial Engineering program at New York University in May 2021.
 - I am actively looking for full-time job opportunities in quantitative finance field.
 - I have strong interests in quantitative finance, especially in quantitative research, quantitative strategy, and quantitative risk management.
 - I am proficient in multiple programming languages including Python, C++, R, etc.
